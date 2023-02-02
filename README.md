@@ -1,4 +1,4 @@
-# ItziSpyder (ImproperIssues) ![ImproperIssues](/assets/images/pfp.png)
+# ItziSpyder (ImproperIssues) 
 ### About me
 -------------------------------------------
 
@@ -7,3 +7,7 @@
  > - My IGN is ImproperIssues
  > - I code in my free time
  > - My main language is java.
+ 
+ > ## Contact
+ > - `Discord`: ImproperIssues#4988
+ > - `Linktree`: [ItziSpyder's Linktree](https://linktr.ee/ItziSpyder)
