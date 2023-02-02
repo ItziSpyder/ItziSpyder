@@ -2,7 +2,6 @@
 ### About me
 -------------------------------------------
 
-> ### ImproperIssues
  > ## Hello!
  > - My IGN is ImproperIssues
  > - I code in my free time
