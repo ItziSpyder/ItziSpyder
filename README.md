@@ -1,4 +1,4 @@
-# ItziSpyder (ImproperIssues)
+# ItziSpyder (ImproperIssues) [ImproperIssues](/assets/images/pfp.png)
 ### About me
 -------------------------------------------
 
