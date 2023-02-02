@@ -1,2 +1,9 @@
-# ItziSpyder-aka-ImproperIssues
-My Github about me!
+# ItziSpyder (ImproperIssues)
+### About me
+-------------------------------------------
+
+> 
+ > ## Hello!
+ > - My IGN is ImproperIssues
+   - I code in my free time
+   - My main language is java.
