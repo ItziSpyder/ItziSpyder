@@ -1,17 +1,18 @@
-# ItziSpyder (ImproperIssues) 👋
-## About me
 
- > ### Hello!
- > - My IGN is ImproperIssues 🔰
- > - I code in my free time ⌨️
- > - My main language is java. ☕
- > - I mainly make Spigot/Paper plugins [SpigotMC](https://spigotmc.org)
- >
- > ### Contact
- > - `Discord`: ImproperIssues#4988 
- > - `Linktree`: [ItziSpyder's Linktree](https://linktr.ee/ItziSpyder)
- >
- > ### Also Visit
- > - ![I_Got_You_Dead](/assets/images/i-got-you-dead.png) `I_Got_You_Dead` [https://github.com/i-got-you-dead](https://github.com/i-got-you-dead)
- > - ![TheTrouper](/assets/images/thetrouper.png) `TheTrouper` [https://github.com/TheTrouper](https://github.com/TheTrouper)
- >
+# Hello There!, I'm ImproperIssues! 👋
+I am a beginner Java programmer that likes to code in my free time! I enjoy exploring new languages and concepts! Free to DM.
+
+## Need To Contact Me? 📞
+- ☕ This is my [Github](github.com/itzispyder)
+  - I update most stuff here ^
+- 🤓 This is my [Modrinth](modrinth.com/user/itzispyder)
+  - I upload and publish most stuff here ^
+- 🗣️ This is my [Discord (ImproperIssues#4988)](discord.com/channels/@me)
+  - I do most stuff here ^
+- 😴 This is my [Email (ItziSpyder@gmail.com)](gmail.com)
+  - I'm most likely too lazy to check this ^
+- 🤔 This is my [SpigotMC](spigotmc.org/members/itzispyder)
+  - My plugins are here ^
+
+## This Is My Newest Project! 🎯
+- Please check out [ClickCrystals](modrinth.com/mod/clickcrystals) and its [source](github.com/itzispyder/clickcrystals)!
