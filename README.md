@@ -3,15 +3,15 @@
 I am a beginner Java programmer that likes to code in my free time! I enjoy exploring new languages and concepts! Free to DM.
 
 ## Need To Contact Me? 📞
-- ☕ **This is my [Github](github.com/itzispyder)**
+- ☕ **This is my [Github](https://github.com/itzispyder)**
   - *I update most stuff here ^*
-- 🤓 **This is my [Modrinth](modrinth.com/user/itzispyder)**
+- 🤓 **This is my [Modrinth](https://modrinth.com/user/itzispyder)**
   - *I upload and publish most stuff here ^*
-- 🗣️ **This is my [Discord (ImproperIssues#4988)](discord.com/channels/@me)**
+- 🗣️ **This is my [Discord (ImproperIssues#4988)](https://discord.com/channels/@me)**
   - *I do most stuff here ^*
-- 😴 **This is my [Email (ItziSpyder@gmail.com)](gmail.com)**
+- 😴 **This is my [Email (ItziSpyder@gmail.com)](https://gmail.com)**
   - *I'm most likely too lazy to check this ^*
-- 🤔 **This is my [SpigotMC](spigotmc.org/members/itzispyder)**
+- 🤔 **This is my [SpigotMC](https://spigotmc.org/members/itzispyder)**
   - *My plugins are here ^*
 
 ## This Is My Newest Project! 🎯
