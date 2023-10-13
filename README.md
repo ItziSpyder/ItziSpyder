@@ -13,7 +13,7 @@ I had been keeping this up for around `1.5` years!
 
 - Recently, I've been well known for the project [ClickCrystals](https://github.com/itzispyder/clickcrystals), receiving well over `35.0k` distributions on [Modrinth](https://modrinth.com/mod/clickcrystals); it counts as one of my most successful passion projects so far!
 
-<br><br>
+<br>
 <div>
  <a href="https://itzispyder.github.io/clickcrystals">
   <img src="./assets/images/cc-banner.png" style="width:69%;">
