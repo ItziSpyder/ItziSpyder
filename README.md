@@ -1,6 +1,6 @@
 # Hello, I am ImproperIssues.
 
-- Beginner Java Developer
+- **Beginner Java Developer**
 
 ## Personal Projects
 | Name | Statistics |
